@@ -33,7 +33,8 @@
 - **OS:**
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-  [![Chrome OS](https://img.shields.io/badge/Chrome%20OS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/) *
+  [![Chrome OS](https://img.shields.io/badge/Chrome%20OS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chromebook/chrome-os/)
+  
 
 
 
